@@ -41,7 +41,7 @@ This is a simple Project Management System built using FastAPI, which provides R
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/fastapi-project-management.git
+git clone https://github.com/jorgesisco/FastApi.git
 cd fastapi-project-management
 ```
 
